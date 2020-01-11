@@ -249,10 +249,10 @@ class _ThirdScreenState extends State<ThirdScreen> {
                   ),
                 )
             ),
-//            AdmobBanner(
-//              adUnitId: getBannerAdUnitId(),
-//              adSize: AdmobBannerSize.LARGE_BANNER,
-//            ),
+            AdmobBanner(
+              adUnitId: getBannerAdUnitId(),
+              adSize: AdmobBannerSize.LARGE_BANNER,
+            ),
           ],
         ),
       ),
