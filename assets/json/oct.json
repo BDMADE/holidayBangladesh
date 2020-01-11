@@ -1,0 +1,50 @@
+[
+  {
+  "date": "01",
+  "day": "Thurs",
+  "name": "Prabarana Purnima",
+  "type": "Optional Holiday",
+  "color": "0xFFFFFF00",
+  "description": "Prabarana Purnima a Buddhist festival, also known as Axvini Purnima. Prabarana means both adopting wholly and forbidding. In the first sense it means dedicating oneself to the ideal of a life of humility; in the sense of forbidding, it means avoiding all acts contrary to the ideals of buddhism. At the end of the monsoon rites of barsabas, viksus are required to confess their guilt and shortcomings and seek atonement. Forgiveness has to be sought even for sins committed beyond one's knowledge. In other words, Prabarana aims at avoiding sin at all steps of life and remaining steadfast in good deeds. "
+},
+  {
+    "date": "13",
+    "day": "Tues",
+    "name": "Akhari Chahar Somba",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Akheri Chahar Shomba is important for the recovery of Holy and last Prophet of Islam Mohammad (PBUH) from his last illness which was 13 days long. After a short time of his recovery Mohammad (PBUH) was died. As a Muslim country Bangladesh observe this day as a public holiday and Muslims of Bangladesh observe this day with proper solemnity."
+  },
+  {
+    "date": "17",
+    "day": "Sat",
+    "name": "First Day of Navaratri",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "The first day of Navratri is the day to worship goddess “Shailputri” one of the nine forms of goddess. The first day of navratri starts with Ghatasthapna, which means that the followers are required sow the seeds of grains in a clay pot that signifies the presence of Goddess Durga in home. The person, who had taken initiative to sow the seed, is required to take care of it twice daily by sprinkling water for growth purpose."
+  },
+  {
+    "date": "26",
+    "day": "Mon",
+    "name": "Durga Puja",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Durga Puja, also called Durgotsava, is an annual Hindu festival originating in the Indian subcontinent which reveres and pays homage to the Hindu goddess, Durga."
+  },
+  {
+    "date": "30",
+    "day": "Fri",
+    "name": "Eid e-Milad-un Nabi",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Eid e-Milad-un Nabi is the observance of the birthday of Islamic prophet Muhammad (PBUH) which is commemorated in Rabi' al-awwal, the third month in the Islamic calendar."
+  },
+  {
+    "date": "31",
+    "day": "Sat",
+    "name": "Halloween",
+    "type": "Observance",
+    "color": "0xFF40C4FF",
+    "description": "Halloween is a celebration observed in several countries on 31 October, the eve of the Western Christian feast of All Hallows' Day. It begins the three-day observance of Allhallowtide, the time in the liturgical year dedicated to remembering the dead, including saints, martyrs, and all the faithful departed."
+  }
+]

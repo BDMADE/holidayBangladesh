@@ -1,0 +1,44 @@
+[
+  {
+  "date": "16",
+  "day": "Wed",
+  "name": "Victory Day",
+  "type": "Public Holiday",
+  "color": "0xFF00E676",
+  "description": "Victory Day is a national holiday in Bangladesh celebrated on December 16 to commemorate the victory of the allied forces over the Pakistani forces in the Bangladesh Liberation War in 1971."
+},
+  {
+    "date": "24",
+    "day": "Thurs",
+    "name": "Christmas Eve",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Christmas Eve, which is the day before Christmas Day, is celebrated in many countries worldwide. It is a Christian observance that falls on December 24 in the Gregorian calendar."
+  },
+
+  {
+    "date": "25",
+    "day": "Fri",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world.\n\nA feast central to the Christian liturgical year, it is preceded by the season of Advent or the Nativity Fast and initiates the season of Christmastide, which historically in the West lasts twelve days and culminates on Twelfth Night; in some traditions, Christmastide includes an octave.\n\n Christmas Day is a public holiday in many of the world's nations, is celebrated religiously by a majority of Christians, as well as culturally by many non-Christians, and forms an integral part of the holiday season centered around it."
+  },
+
+  {
+    "date": "26",
+    "day": "Wed",
+    "name": "Boxing Day",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Boxing Day is a holiday celebrated the day after Christmas Day. It originated in the United Kingdom and is celebrated in a number of countries that previously formed part of the British Empire. Boxing Day is on 26 December, although the attached bank holiday or public holiday may take place either on that day or two days later. "
+  },
+  {
+    "date": "31",
+    "day": "Wed",
+    "name": "New Year's Eve",
+    "type": "Bank Holiday",
+    "color": "0xFF00BCD4",
+    "description": "In the Gregorian calendar, New Year's Eve (also known as Old Year's Day or Saint Sylvester's Day in many countries), the last day of the year, is on 31 December. \n\n In many countries, New Year's Eve is celebrated at evening parties, where many people dance, eat, drink, and watch or light fireworks. Some Christians attend a watchnight service. The celebrations generally go on past midnight into New Year's Day, 1 January.\n\n In Bangladesh, all Banks are closed at the day."
+  }
+]

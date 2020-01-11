@@ -1,0 +1,26 @@
+[
+  {
+  "date": "01",
+  "day": "Tues",
+  "name": "Bank Holiday",
+  "type": "Bank Holiday",
+  "color": "0xFF00BCD4",
+  "description": "All banks are closed in the day."
+},
+  {
+    "date": "04",
+    "day": "Sat",
+    "name": "Ashari Purnima",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "The Buddhists in the city and elsewhere in the country today celebrated Ashari Purnima, one of their major religious festivals, with solemn devotion and traditional enthusiasm.\n\nAshari Purnima is celebrated by the members of the Buddhist community to commemorate three significant incidences of Buddha’s life which took place on this single day."
+  },
+  {
+    "date": "31",
+    "day": "Fri",
+    "name": "Eid ul Adha",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Eid ul-Adha is an Islamic festival to commemorate the willingness of Ibrahim (also known as Abraham) to follow Allah's command to sacrifice his son."
+  }
+]

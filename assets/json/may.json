@@ -1,0 +1,66 @@
+[
+  {
+  "date": "01",
+  "day": "Fri",
+  "name": "May Day",
+  "type": "Public Holiday",
+  "color": "0xFF00E676",
+  "description": "May Day is a celebration of labourers and the working classes that is promoted by the international labour movement which occurs every year on May Day, an ancient European spring festival."
+},
+  {
+    "date": "06",
+    "day": "Wed",
+    "name": "Buddha Purnima",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "The Buddha Purnima, also referred to as Boishakhi Purnima, is the largest religious festival in Bangladesh held by the Buddhist community. It is celebrated annually on the full moon day that lies in the first month of the Bangla Calendar."
+  },
+  {
+    "date": "10",
+    "day": "Sun",
+    "name": "Mothers' Day",
+    "type": "Observance",
+    "color": "0xFF40C4FF",
+    "description": "Mother’s Day is a day for many people to show their appreciation towards mothers and mother figures worldwide."
+  },
+  {
+    "date": "19",
+    "day": "Tues",
+    "name": "Shab-e-Qadr",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Shab-e-Qadr, Night of Decree, Night of Measures, is and Islamic observance that marks the anniversary of the night Mohammad (PBUH) received the first verses of the Qu'ran. "
+  },
+  {
+    "date": "22",
+    "day": "Fri",
+    "name": "Jumatul Bidah",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Jumatul Bidah is celebrated on the last Friday in the Islamic month* of Ramadan. It is a public holiday in Bangladesh and a regional holiday in the Indian states of Jammu and Kashmir and Uttarakhand, where it is known as 'Jumat-ul-Wida'."
+  },
+  {
+    "date": "24",
+    "day": "Sun",
+    "name": "Eid ul-Fitr",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Eid ul-Fitr  is a religious holiday celebrated by Muslims worldwide that marks the end of the month-long dawn-to-sunset fasting of Ramadan."
+  },
+  {
+    "date": "25",
+    "day": "Mon",
+    "name": "Eid ul-Fitr",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Eid ul-Fitr  is a religious holiday celebrated by Muslims worldwide that marks the end of the month-long dawn-to-sunset fasting of Ramadan."
+  },
+  {
+    "date": "26",
+    "day": "Tues",
+    "name": "Eid ul-Fitr",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Eid ul-Fitr is a religious holiday celebrated by Muslims worldwide that marks the end of the month-long dawn-to-sunset fasting of Ramadan."
+  }
+]

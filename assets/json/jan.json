@@ -1,0 +1,26 @@
+[
+  {
+  "date": "01",
+  "day": "Wed",
+  "name": "New Year's Day",
+  "type": "Optional Holiday",
+  "color": "0xFFFFFF00",
+  "description": "New Year’s Day, which is on January 1, marks the start of the year in the Gregorian calendar and it's a public holiday in many countries. Count down to the New Year, no matter where you are."
+},
+  {
+    "date": "10",
+    "day": "Fri",
+    "name": "Bangabandhu Homecoming Day",
+    "type": "Observance",
+    "color": "0xFF40C4FF",
+    "description": "The historic Homecoming Day of Father of the Nation Bangabandhu Sheikh Mujibur Rahman will be observed today in a befitting manner. Bangabandhu, the undisputed leader of the nation and supreme commander of the country’s Liberation War, returned to the sacred soil of independent Bangladesh via London and New Delhi on January 10 in 1972, after 290 days of captivity in Pakistan jail."
+  },
+  {
+    "date": "29",
+    "day": "Wed",
+    "name": "Saraswati Puja",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Saraswati Puja is performed for devotion to the Goddess of knowledge and wisdom. The Goddess of learning is worshiped among the students and learned who firmly follow all the customs to worship her."
+  }
+]

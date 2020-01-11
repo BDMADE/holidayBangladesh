@@ -1,0 +1,43 @@
+[
+  {
+  "date": "08",
+  "day": "Sat",
+  "name": "Maghi Purnima",
+  "type": "Optional Holiday",
+  "color": "0xFFFFFF00",
+  "description": "Maghi Purnima is the full moon day in the Hindu month of Magha that also marks the end of the month. While full moon days (or Purnimas) are generally considered auspicious in Hindu mythology, Maghi Purnima is even more so. One of the reasons that makes this day (and indeed the month) auspicious is the belief that Vishnu who makes Ganga his home for an entire month. The day of Maghi Purnima is associated with the worship of Brihaspati, the advisor to the gods."
+},
+  {
+    "date": "14",
+    "day": "Wed",
+    "name": "Valentine's Day",
+    "type": "Observance",
+    "color": "0xFF40C4FF",
+    "description": "Valentine's Day, also called Saint Valentine's Day or the Feast of Saint Valentine,is celebrated annually on February 14. Originating as a Western Christian feast day honoring one or two early saints named Valentinus, Valentine's Day is recognized as a significant cultural, religious, and commercial celebration of romance and romantic love in many regions around the world."
+  },
+
+  {
+    "date": "21",
+    "day": "Fri",
+    "name": "Maha Shivaratri",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Maha Shivaratri  is a Hindu festival celebrated annually in honour of Lord Shiva, and in particular, marks the day of the consummation of marriage of Shiva."
+  },
+  {
+    "date": "21",
+    "day": "Fri",
+    "name": "Language Martyrs' Day",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Language Martyrs' Day is a national holiday of Bangladesh commemorating Bengali language movement and the martyrs of the movement on 21 February every year. On this day, people visit Shaheed Minars to pay their homage to the movement's martyrs and arrange seminars discussing and promoting Bengali language as the state language of Bangladesh."
+  },
+  {
+    "date": "26",
+    "day": "Feb",
+    "name": "Ash Wednesday",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "The first day of Lent is known as Ash Wednesday for Christians worldwide. It is the beginning of the Lenten fast. The Lenten fast lasts for 40 days (excluding Sundays) and ends on Holy Saturday, which is the day before Easter Sunday."
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+  "date": "02",
+  "day": "Mon",
+  "name": "National Flag Day",
+  "type": "Observance",
+  "color": "0xFF40C4FF",
+  "description": "On this day in 1971, the first flag of Independent Bangladesh was waving on the land of East Pakistan."
+},
+  {
+    "date": "09",
+    "day": "Mon",
+    "name": "Doljatra",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "The festival of Doljatra is celebrated with pomp and dignity in the state of West Bengal. It is essentially a festival of colours, just as Holi is but the way it is celebrated makes it different from Holi as witnessed in rest of Bangladesh."
+  },
+
+  {
+    "date": "10",
+    "day": "Tues",
+    "name": "Holi",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Holi is the Hindu festival colors that celebrates the triumph of good over evil, good harvest, and fertility."
+  },
+  {
+    "date": "17",
+    "day": "Tues",
+    "name": "Bangabandhu's Birthday",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Father of the nation and first president of Bangladesh (26 March 1971 to 11 January 1972). Sheikh Mujibur Rahman was born on 17 March 1920 in the village Tungipara under Gopalganj subdivision in the district of Faridpur."
+  },
+  {
+    "date": "22",
+    "day": "Sun",
+    "name": "Shab-e-Meraj",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Shab e-Meraj is a holiday which is observed on the 27th day of the month of Rajab. the day, which is also known as Isra and Mi’raj or Al-Isra’ Wal Miraj, that marks the night that Allah took Mohammad (PBUH) from Mecca to Jerusalem and eventually, to heaven."
+  },
+  {
+    "date": "26",
+    "day": "Thurs",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Independence Day in Bangladesh is a public holiday that commemorates Bangladesh’s separation from Pakistan to become an independent nation. The declaration of Independence came late on the night of 25 March 1971, and was the culmination of a long struggle with the ruling regime in West Pakistan."
+  }
+]

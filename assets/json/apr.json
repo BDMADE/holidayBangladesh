@@ -1,0 +1,66 @@
+[
+  {
+  "date": "08",
+  "day": "Wed",
+  "name": "Shab e-Barat",
+  "type": "Public Holiday",
+  "color": "0xFF00E676",
+  "description": "Shab-e-barat or Barat Night, is a Muslim holiday celebrated on the 14th night of the month of Sha'aban, the eighth month of the Islamic calendar. It commemorates the entry of Muhammad (PBUH) into the city of Mecca."
+},
+  {
+    "date": "09",
+    "day": "Thurs",
+    "name": "Maundy Thursday",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Maundy Thursday commemorates Jesus Christ’s institution of the Eucharist during the Last Supper, which is described in the Christian bible."
+  },
+  {
+    "date": "10",
+    "day": "Fri",
+    "name": "Good Friday",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Many Christians around the world observe Good Friday on the Friday before Easter Sunday. It commemorates Jesus Christ’s Passion, crucifixion, and death, which is told in the Christian Bible."
+  },
+  {
+    "date": "11",
+    "day": "Sat",
+    "name": "Holy Saturday",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Holy Saturday commemorates the day that Jesus Christ lay in the tomb after his death, according to the Christian bible."
+  },
+  {
+    "date": "12",
+    "day": "Sun",
+    "name": "Easter Day",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Easter Sunday is one of the most festive events among Christians worldwide. It commemorates Jesus Christ’s resurrection from death, as written in the Christian bible."
+  },
+  {
+    "date": "13",
+    "day": "Mon",
+    "name": "Easter Monday",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Easter Monday is one of the most festive events among Christians worldwide"
+  },
+  {
+    "date": "13",
+    "day": "Mon",
+    "name": "Chaitra Sankranti",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Chaitra is the last month of Bosonto Kal (Spring Season) in Bangla calendar, a form of solar calendar followed by rural people since hundreds of years. It was later officially introduced by Mughal Emperor Akbar in place of lunar calendar to solve the problem with taxation of the subjects. The Bangla New Year celebration on Pahela Baishakh began then."
+  },
+  {
+    "date": "14",
+    "day": "Tues",
+    "name": "Pahela Baishakh",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Pahela Baishakh is the first day of Bengali Calendar. The festival is celebrated with processions, fairs and family time. The traditional greeting for Bengali New Year is \"Shubho Nabobarsho\" which is literally \"Happy New Year\"."
+  }
+]

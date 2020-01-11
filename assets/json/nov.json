@@ -1,0 +1,26 @@
+[
+  {
+  "date": "14",
+  "day": "Sat",
+  "name": "Lakshmi Puja",
+  "type": "Optional Holiday",
+  "color": "0xFFFFFF00",
+  "description": "Lakshmi Puja, is a Hindu religious festival that falls on Amavasya of Krishna Paksha in the Vikram Samvat Hindu calendar month of Ashwin, on the third day of Tihar and is considered as the main festive day of Deepawali."
+},
+  {
+    "date": "14",
+    "day": "Sat",
+    "name": "Sri Shayama Puja",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Sri Shayama Puja is a festival, originating from the Indian subcontinent, dedicated to the Hindu goddess Kali, celebrated on the new moon day of the Hindu month Kartik especially in the regions of Bengal, Chittagong, Sylhet, Rangpur, Mithila, Odisha, Assam, and the town of Titwala in Maharashtra. It coincides with the Lakshmi Puja day of Diwali. While the Bengalis, Chittagonians, Sylhetis, Rangpuris, Odias, Assamese and Maithils worship the goddess Kali on this day, the rest of India worships goddess Lakshmi on Diwali."
+  },
+  {
+    "date": "27",
+    "day": "Fri",
+    "name": "Fateha-i-Yajdaham",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "is day of birth celebrations of Ghos e Azam Shaikh Abdul Qadir Gilani Rahmtullah adjacent to the birth day of the Islamic prophet, Muhammad, according to Islamic Calendar 12th of the month on Monday which is also called Big Eleventh. Fateha-i-Yajdaham is a public holiday in Bangladesh but it is also celebrated in India and Pakistan along with all parts of Sunni Islam of the world."
+  }
+]

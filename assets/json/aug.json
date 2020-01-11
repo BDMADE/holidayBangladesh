@@ -1,0 +1,58 @@
+[
+  {
+    "date": "01",
+    "day": "Sat",
+    "name": "Eid ul Adha",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Eid ul-Adha is an Islamic festival to commemorate the willingness of Ibrahim (also known as Abraham) to follow Allah's command to sacrifice his son."
+  },
+  {
+    "date": "02",
+    "day": "Sun",
+    "name": "Eid ul Adha",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Eid ul-Adha is an Islamic festival to commemorate the willingness of Ibrahim (also known as Abraham) to follow Allah's command to sacrifice his son."
+  },
+  {
+    "date": "03",
+    "day": "Mon",
+    "name": "Raksha Bandhan",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Raksha Bandhan, also Rakshabandhan, is a popular, traditionally Hindu, annual rite, or ceremony, which is central to a festival of the same name, celebrated in India, Nepal and other parts of the Indian subcontinent, and among people around the world influenced by Hindu culture."
+  },
+  {
+    "date": "11",
+    "day": "Tues",
+    "name": "Janmashtami",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Janmashtami is an annual Hindu festival that celebrates the birth of Krishna, the eighth avatar of Vishnu"
+  },
+  {
+    "date": "15",
+    "day": "Sat",
+    "name": "National Mourning Day",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "National mourning day of Bangladesh is observed on 15th August. Sheikh Mujibur Rahman along with his most of the family members was killed on this day. After a few more days, the mournful day will come. On that day, everyone will remember Bangabandhu with deep respect. There will be the holiday in the country and the environment will contain the mournful situation. We would present the history of how brutal that day was in 1975. Let us now know all the history about 15 August National Mourning Day."
+  },
+  {
+    "date": "22",
+    "day": "Tues",
+    "name": "Ganesh Chaturthi",
+    "type": "Optional Holiday",
+    "color": "0xFFFFFF00",
+    "description": "Ganesh Chaturthi, also known as Vinayaka Chaturthi, is a Hindu festival celebrating the arrival of Ganesha to earth from 'Kailash Parvat' with his mother goddess Parvati/Gauri."
+  },
+  {
+    "date": "29",
+    "day": "Sat",
+    "name": "Ashura",
+    "type": "Public Holiday",
+    "color": "0xFF00E676",
+    "description": "Ashura is an Islamic holiday observed on the 10th of Muharram, the first month of the Islamic year. The word Ashura means \"10,\" denoting the date of the holiday."
+  }
+]
