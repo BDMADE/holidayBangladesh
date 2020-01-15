@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:holidaybangladesh/models/month.dart';
 import 'package:holidaybangladesh/models/holiday.dart';
-import 'package:holidaybangladesh/admob/admob_flutter.dart';
+import 'package:admob_flutter/admob_flutter.dart';
 
 void main () {
   Admob.initialize(getAppId());
