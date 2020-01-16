@@ -52,8 +52,7 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Text('Holidays',
           textAlign: TextAlign.center,
           style: TextStyle(fontSize: 50.0,
-              fontFamily: 'IndieFlower',
-              color: Colors.white),
+          color: Colors.white),
         ),
       ),
     );
@@ -67,7 +66,7 @@ class FirstScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Holidays', style: TextStyle(fontFamily: 'IndieFlower'),), centerTitle: true,),
+      appBar: AppBar(title: Text('Holidays'), centerTitle: true,),
       backgroundColor: Color.fromRGBO(58, 66, 86, 1.0),
       body: Container(
         padding: EdgeInsets.symmetric(vertical: 20.0, horizontal: 2.0),
@@ -77,7 +76,7 @@ class FirstScreen extends StatelessWidget {
           itemBuilder: (context, index) {
             return Card(
                 elevation: 10.0,
-                margin: EdgeInsets.all(2.0),
+                margin: EdgeInsets.all(5.0),
                 child: Container(
                   decoration: BoxDecoration(color: Color.fromRGBO(64, 75, 96, .9)),
                   child: InkWell(
@@ -98,7 +97,7 @@ class FirstScreen extends StatelessWidget {
                             )),
                         SizedBox(height: 20.0),
                         new Center(
-                          child: new Text(months[index].title, style:TextStyle(fontSize: 16.0, color: Colors.white, fontFamily: 'IndieFlower')),
+                          child: new Text(months[index].title, style:TextStyle(fontSize: 16.0, color: Colors.white)),
                         )
                       ],
                     ),
@@ -126,7 +125,7 @@ class _SecondScreenState extends State<SecondScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(title: Text(widget.month.title,
-          style: TextStyle(fontFamily: 'IndieFlower'),
+          style: TextStyle(fontFamily: 'Raleway'),
         ),
           centerTitle: true,),
         backgroundColor: Color.fromRGBO(58, 66, 86, 1.0),
@@ -261,9 +260,16 @@ class _ThirdScreenState extends State<ThirdScreen> {
 }
 
 String getAppId() {
-  return 'ca-app-pub-8933442195154449~4178301396';
+  // test code
+  return 'ca-app-pub-3940256099942544~3347511713';
+  // real code
+//  return 'ca-app-pub-8933442195154449~4178301396';
+
 }
 
 String getBannerAdUnitId() {
-  return 'ca-app-pub-8933442195154449/9486468398';
+  //test code
+  return 'ca-app-pub-3940256099942544/6300978111';
+  // real code
+ // return 'ca-app-pub-8933442195154449/9486468398';
 }
